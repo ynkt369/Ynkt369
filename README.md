@@ -1,14 +1,14 @@
 
 
-Username: Ynkt192
-Name: Muhammad Younas – Health & Fitness Enthusiast
+Ynkt192
+Muhammad Younas – Health & Fitness Enthusiast
 
 Bio:
 💪 Passionate about health, nutrition, and fitness | 🥗 Helping people achieve their fitness goals through science-backed workouts and meal plans | 📊 Sharing data-driven progress and tips | 🚀 Open to collaborations on health-tech and fitness tracking projects.
 
 Location: Karachi, Pakistan
 
-Links Hub: 🌐 My Complete Health & Fitness Links
+Links Hub: 🌐 My Complete Health & Fitness Links.https://heylink.me/ynkt192/
 
 Public Email: Hammadjan1975@gmail.com
 
