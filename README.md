@@ -1,43 +1,58 @@
 
-# 👋 Hey, I'm Muhammad Younas
 
-### 🔐 Blockchain | 💸 Crypto | 🧠 Smart Contracts Developer  
+Username: Ynkt192
+Name: Muhammad Younas – Health & Fitness Enthusiast
 
-I’m a passionate Web3 developer focused on building secure, scalable, and decentralized applications on the Ethereum Virtual Machine (EVM) and beyond.
+Bio:
+💪 Passionate about health, nutrition, and fitness | 🥗 Helping people achieve their fitness goals through science-backed workouts and meal plans | 📊 Sharing data-driven progress and tips | 🚀 Open to collaborations on health-tech and fitness tracking projects.
 
----
+Location: Karachi, Pakistan
 
-### 🚀 Tech Stack
-- 🔹 Solidity, Hardhat, Remix IDE  
-- 🔹 JavaScript / TypeScript  
-- 🔹 Web3.js, Ethers.js  
-- 🔹 React + Next.js  
-- 🔹 IPFS, Pinata, Moralis  
-- 🔹 Polygon, BSC, Ethereum
+Links Hub: 🌐 My Complete Health & Fitness Links
 
----
+Public Email: Hammadjan1975@gmail.com
 
-### 📈 Current Focus
-- 🧠 DeFi Protocol Development  
-- 🌐 Tokenomics & DAO Structuring  
-- 📦 NFT Marketplace with Metadata Hosting  
-- ⚡ Layer 2 Networks (Arbitrum, Optimism)
+Twitter / X: @X.Younasynkt
 
----
+Interests:
 
-### 📫 Connect with me
-- 🐦 [Twitter (X)](https://x.com/younasynkt?s=09)  
-- 📬 Email: Kumbbar192@gmail.com  
-- 👨‍💻 GitHub: [Ynkt369](https://github.com/Ynkt369)
+🏋️ Strength Training
 
----
+🏃 Cardio & Endurance
 
-### ⚡ Fun Facts
-- I love breaking down complex crypto concepts for beginners 🧠  
-- Built my first ERC-20 token in under 1 hour ⏱️  
-- Always exploring new blockchains 🚀
+🥗 Healthy Cooking & Meal Prep
 
----
+📱 Fitness Apps Development
 
-**Let’s build the decentralized future together 🌍**
+📊 Body Transformation Tracking
 
+
+Pinned Repositories:
+
+1. Healthy-Recipes – A collection of easy, nutritious recipes with calories and macros.
+
+
+2. Workout-Planner – Customizable workout schedules for beginners to advanced athletes.
+
+
+3. Fitness-Tracker-App – Open-source mobile app to track workouts, nutrition, and progress.
+
+
+4. BMI-Calculator – A simple BMI & body fat calculator in Python/JavaScript.
+
+
+5. Meditation-Guide – Audio + text-based mindfulness & stress relief sessions.
+
+
+
+GitHub Status:
+
+🌱 Currently working on: AI-based Fitness Tracker
+
+👯 Looking to collaborate on: Fitness Apps, Nutrition Tracking Tools
+
+💬 Ask me about: Workout routines, nutrition, fitness motivation
+
+📫 How to reach me: Hammadjan1975@gmail.com
+
+⚡ Fun fact: I can deadlift more than my own body weight 🏋️‍♂️
